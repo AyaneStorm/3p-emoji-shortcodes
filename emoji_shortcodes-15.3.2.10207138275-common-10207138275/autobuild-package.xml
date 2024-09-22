@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<llsd>
+<map>
+    <key>version</key>
+    <string>1</string>
+    <key>type</key>
+    <string>metadata</string>
+    <key>build_id</key>
+    <string>10207138275</string>
+    <key>platform</key>
+    <string>common</string>
+    <key>configuration</key>
+    <string>default</string>
+    <key>package_description</key>
+    <map>
+      <key>license</key>
+      <string>MIT</string>
+      <key>license_file</key>
+      <string>LICENSES/emojibase-license.txt</string>
+      <key>copyright</key>
+      <string>Copyright 2017-2019 Miles Johnson.</string>
+      <key>version</key>
+      <string>15.3.2.10207138275</string>
+      <key>name</key>
+      <string>emoji_shortcodes</string>
+      <key>vcs_branch</key>
+      <string>refs/tags/v15.3.2-r1</string>
+      <key>vcs_revision</key>
+      <string>35e785db417237795d49582aa8462e9647b97f1d</string>
+      <key>vcs_url</key>
+      <string>git://github.com/secondlife/3p-emoji-shortcodes.git</string>
+      <key>canonical_repo</key>
+      <string>https://github.com/secondlife/3p-emoji-shortcodes</string>
+      <key>description</key>
+      <string>Emoji shortcodes</string>
+    </map>
+    <key>manifest</key>
+    <array>
+      <string>xui/de</string>
+      <string>xui/ja</string>
+      <string>xui/da</string>
+      <string>xui/ru</string>
+      <string>xui/pt</string>
+      <string>xui/en</string>
+      <string>xui/fr</string>
+      <string>xui/zh</string>
+      <string>xui/es</string>
+      <string>xui/pl</string>
+      <string>LICENSES/emojibase-license.txt</string>
+      <string>xui/it</string>
+    </array>
+  </map>
+</llsd>
